@@ -1,6 +1,6 @@
 package com.example.leetcode;
 
-public class LongestCommonPrefix14 {
+public class Task14 {
     public static void main(String[] args) {
 
 
