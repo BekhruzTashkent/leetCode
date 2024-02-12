@@ -33,7 +33,7 @@ public class Task35 {
 //
 //        }
 
-        int[] nums = {1,3,4,5,7,9};
+        int[] nums = {1, 3, 4, 5, 7, 9};
         int target = 8;
 
         System.out.println("searchInsert(nums, target) = " + searchInsert(nums, target));
@@ -51,7 +51,7 @@ public class Task35 {
             anw++;
             if (nums[i] == target) {
 
-                return anw -1;
+                return anw - 1;
 
             } else if (
                     i + 2 < length &&
